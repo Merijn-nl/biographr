@@ -1,0 +1,25 @@
+body {margin:100px 20px; text-align: left; font-family: "Helvetica Neue", Verdana, Arial, sans-serif;}
+table {margin: 0 auto;}
+th, td {text-align: left; padding: 0 1em; }
+td {font-size: 1.2em;}
+th {color: #333333;}
+ul {margin: 0 auto;}
+li {display: block; font-size: 1.4em;}
+a {text-decoration: none; font-weight: bold; color: #ffffff;}
+a:visited {color: #ffffff;}
+a:hover {color: rgba(120,225,120,0.75);}
+a:active {color: rgba(120,225,120,1);}
+form, input, button, select, option {font-family: sans-serif; font-size: 1.2em;}
+
+#autobeheren, #buttons, #forms, .invoer, .login, .loginsmall {text-align: center;}
+div#buttons{ margin: 1em auto; padding: 1em; border-top: 2px solid #333333; border-bottom: 1px solid #9a9a9a; width: 35%;}
+div#nieuweauto, div#nieuwevastekosten, div#autosluit, div#nieuweopbrengst, div#nieuwetank, div#nieuweonderhoud , div#nieuweoverig {display: none;}
+
+canvas#myChartLeft {position: absolute; top: 50px; left: 75px; width: 300px; height: 300px; float: left; margin: 1em auto;}
+canvas#myChartRight {position: absolute; top: 50px; right: 75px; width: 300px; height: 300px; float: right; margin: 1em auto;}
+
+p.form-result {text-align: center; margin: 2em auto; padding: 1em; background-color: rgba(170,255,170,0.4); border-radius: 20px; }
+.loginpage {background-color: #cdefdc; text-align: center; padding-bottom: 2em; margin: 0 auto;}
+.login {background-color: #cdcdcd; border: 2px solid #333333; border-radius: 20px; max-width: 700px; margin: 2em auto; padding: 2em 1em 1em;}
+.loginsmall {background-color: #cdcdcd; border: 2px solid #333333; border-radius: 20px; width: 200px; margin: 2em auto; padding: 1em;}
+div.showcars {padding: 1em 0; background-color: #999999; margin: 1em 0; border-radius: 20px; color: #ffffff;}
