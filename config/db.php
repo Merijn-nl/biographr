@@ -12,6 +12,6 @@
  * DB_PASS: the password of the above user
  */
 define("DB_HOST", "127.0.0.1");
-define("DB_NAME", "pandout54_aut");
-define("DB_USER", "pandout54_aut");
-define("DB_PASS", "56Lbiw37");
+define("DB_NAME", "");
+define("DB_USER", "");
+define("DB_PASS", "");
